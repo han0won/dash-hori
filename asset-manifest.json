@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/dash-hori/static/js/main.0e62b2f3.js",
+    "static/media/31448559_about_media_38ef19cd-33e8-4842-aa7c-2ca5473ae3a3.avif": "/dash-hori/static/media/31448559_about_media_38ef19cd-33e8-4842-aa7c-2ca5473ae3a3.1e1e9d88925d19acdade.avif",
+    "index.html": "/dash-hori/index.html",
+    "main.0e62b2f3.js.map": "/dash-hori/static/js/main.0e62b2f3.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.0e62b2f3.js"
+  ]
+}
